@@ -153,7 +153,7 @@ curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/0
 
 Write down the command that you used to uncompress the file.
 ----------
-curl -o unzip mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
+unzip mtec1002-lab-02.zip 
 
 
 ==========
@@ -161,7 +161,7 @@ curl -o unzip mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/
 
 Copy and paste the output below.
 ----------
-
+-bash: cd: mtec1002-lab-02.zip: Not a directory
 
 
 ==========
