@@ -110,7 +110,7 @@ Copy and paste the output below, but not the whole thing!  Just copy up to the p
 
 Write the command you used below.  Also copy and paste the output below.
 ----------
-curl -o
+curl -o google.html www.google.com
 
 
 ==========
@@ -118,7 +118,7 @@ curl -o
 
 Write the command you used to determine your directory.  Also, copy and paste the output below.
 ----------
-
+/Users/student
 
 
 ==========
@@ -142,7 +142,10 @@ Use ls to verify that it downloaded.
 
 Write down the command that you used to download the file below.  Additionally, write the output of the command below.
 ----------
-
+curl -o mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  935k  100  935k    0     0  1432k      0 --:--:-- --:--:-- --:--:-- 3881k
 
 
 ==========
@@ -150,7 +153,7 @@ Write down the command that you used to download the file below.  Additionally, 
 
 Write down the command that you used to uncompress the file.
 ----------
-
+curl -o unzip mtec1002-lab-02.zip http://foureyes.github.io/mtec1002-spring2014/labs/02/mtec1002-lab-02.zip
 
 
 ==========
